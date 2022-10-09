@@ -20,3 +20,4 @@ I've made **Websites**, **Unity games**, a couple **APIs** and other various pro
 Ive been learning french recently and hope to become fluent eventually, i love playing games, and i love to cook.
 
 *Also that dog thats my profile pic was and will forever be the best boy :)*
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=S-Riches&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
