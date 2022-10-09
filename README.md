@@ -9,7 +9,8 @@ I then went on to do a year of electronic engineering at BTEC level, which after
 During my course I was also lucky enough to do work experience at a local software company where I got an insight into creating full stack applications, which is what im currently most interested in pursuing.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=S-Riches&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=S-Riches&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=S-Riches&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Things i've done
 
