@@ -1,12 +1,5 @@
 # About Me
-
-I'm a 19 year old programmer who has been programming for about ~4 years at this point, I started geting into programming when I studied computer science at GCSE level back in secondary school.
-
-I started learning with python 3.5, which initially I disliked - but went on to use a lot. After finishing my GCSES and being 16 I started taking an interest in making games with unity due to its low barrier of entry, some of which are in my repositories.
-
-I then went on to do a year of electronic engineering at BTEC level, which after doing for a year I decided to change courses to computer science as I realised I was much more interested with the concept of creating software than circuitry. I finished the course in 2022 and had learnt quite a lot of different concepts such as client/server, certain cybersecurity techniques, computer networks, HCI, java mobile app development, and more. 
-
-During my course I was also lucky enough to do work experience at a local software company where I got an insight into creating full stack applications, which is what im currently most interested in pursuing.
+I'm a self taught Software Developer - I create full stack apps and spend my time looking at VSCode themes.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=S-Riches&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
