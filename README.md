@@ -3,7 +3,7 @@ I'm a self taught Software Developer - I create full stack apps and spend my tim
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=S-Riches&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=S-Riches&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=S-Riches&theme=dark&hide=html,ASP.NET,css)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Things i've done
 
