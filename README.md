@@ -6,10 +6,11 @@ Full time Software engineer, full time Typescript appreciator.
 
 I have:
 
-- Worked on production websites serving thousands of people
+- Worked on production websites serving millions of people
 - Worked on internal tools migrating away from legacy versions of node and react
 - Worked extensively with Next.js writing frontends and server components
 - Worked extensively with github actions writing CI/CD pipelines
+- Worked with AI agents, and augmented them into my workflow to increase productivity whilst keeping comprehension
 - Can you see what i have worked on? Nope! :) they're in private repositories...
 
 ### Other interests
